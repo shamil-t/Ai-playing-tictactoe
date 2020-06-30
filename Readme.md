@@ -26,8 +26,8 @@ pip install easyAI
 ## 🅷🅾🆆🆆 🆃🅾 🆁🆄🅽
 
 ```bash
-pytho tictactoe.py
+python tictactoe.py
 ```
 ## 🆂🅲🆁🅴🅴🅽🆂🅷🅾🆃🆂
 
-[!Screenshots](https://github.com/shamil-t/Ai-playing-tictactoe/blob/master/ss.png?raw=true)
+![Screenshots](https://github.com/shamil-t/Ai-playing-tictactoe/blob/master/ss.png?raw=true)
